@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Developing
 - 🌱 I’m currently learning React.Js
 - 📫 You can reach me through LinkedIn Id in my profile
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - ⚡ I'm currently looking for Web Developer for my project on website.
 
 <!---
